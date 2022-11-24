@@ -1,6 +1,11 @@
-### Hi I'm soyoung park👋
+<div align=center>## 안녕하세요! 저는 백엔드 개발자 박소영입니다👋😄</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyoung96&show_icons=true&theme=radical)
+<div align=center>##🔭 Github Stats</div>
+<div align=center>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyoung96&show_icons=true&theme=radical)</div>
+
+<div align=center>##🌱 Tech Stack</div>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+
 
 <!--
 **soyoung96/soyoung96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
