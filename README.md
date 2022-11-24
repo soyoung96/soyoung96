@@ -1,5 +1,5 @@
 <div align=center>
-  ## 👋 안녕하세요! 저는 백엔드 개발자 박소영입니다
+  ## 안녕하세요! 저는 백엔드 개발자 박소영입니다
 
   ## 🔭 Github Stats</div>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyoung96&show_icons=true&theme=radical) 
