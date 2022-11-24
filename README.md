@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm soyoung park👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyoung96&show_icons=true&theme=radical)
 
