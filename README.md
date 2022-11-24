@@ -1,12 +1,13 @@
-<div align=center><## 안녕하세요! 저는 백엔드 개발자 박소영입니다👋😄></div>
+<div align=center>
+  ## 안녕하세요! 저는 백엔드 개발자 박소영입니다👋😄
 
-<div align=center>##🔭 Github Stats</div>
-<div align=center> 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyoung96&show_icons=true&theme=radical) 
+  ##🔭 Github Stats</div>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyoung96&show_icons=true&theme=radical) 
+
+  ##🌱 Tech Stack
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+  
 </div>
-
-<div align=center>##🌱 Tech Stack</div>
-<div align=center><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp</div>
 
 
 <!--
