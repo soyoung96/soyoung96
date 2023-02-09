@@ -6,6 +6,8 @@
   ## 🔭 Github Stats
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=soyoung96&show_icons=true&theme=tokyonight)
 
+  ## 🎯 Baekjoon solved rank
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=psy411301)](https://solved.ac/psy411301/)
   
   ## 🌱 Tech Stack
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
